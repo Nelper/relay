@@ -34,7 +34,7 @@
   },
   "peerDependencies": {
     "react": "^0.14.0-rc",
-    "react-dom": "^0.14.0-rc"
+    "react-native": "facebook/react-native"
   },
   "devDependencies": {
     "babel-core": "^5.8.25",

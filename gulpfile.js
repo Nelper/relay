@@ -61,7 +61,7 @@ var buildDist = function(opts) {
     debug: opts.debug,
     externals: {
       'react': 'React',
-      'react-dom': 'ReactDOM'
+      'react-native': 'ReactDOM'
     },
     output: {
       filename: opts.output,
